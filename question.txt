@@ -1,0 +1,7 @@
+Which SQL keyword is used to retrieve unique values from a column?,A. DISTINCT, B. UNIQUE ,C. FILTER ,D. EXCLUSIVE, A
+What is the purpose of the SQL GROUP BY clause?,A. To arrange records in ascending order,B. To filter records by criteria,C. To group rows with the same values,D. To delete duplicate rows,C
+Which SQL function is used to count the number of rows in a table?,A. COUNT(),B. SUM(),C. ROWCOUNT(),TOTAL(),A
+Which of the following commands is used to add a new column to an existing table in SQL?,A. INSERT,B. UPDATE,C. ALTER,D. APPEND,C
+In a relational database, what is a "schema"?,A. The structure of a table,B. The overall design of the database,C. A single row in a table,D. A type of SQL command,B
+
+
